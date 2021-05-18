@@ -1,4 +1,4 @@
-pragma solidity ^0.4.17; //probando un cambio desde github
+pragma solidity ^0.4.17; //probando un cambio desde github y ahora lo vuelvo a editar
 
 contract Contador {
     
