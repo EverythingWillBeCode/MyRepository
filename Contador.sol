@@ -1,6 +1,8 @@
 pragma solidity ^0.4.17; //probando un cambio desde github y ahora lo vuelvo a editar y ahora le hice un fork
 // segybdi change
 
+//estoy trabajando sobre newBranch
+
 contract Contador {
     
     uint256 count;
